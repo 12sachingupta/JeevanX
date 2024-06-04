@@ -1491,7 +1491,7 @@ p.subtitle {
 	height: 60px;
 	align-self: center;
 	margin: 0 0 20px 0;
-	background-image: url(../images/sprite_resources.png);
+	background-image: url(sprite_resources.png);
     background-size: 60px 240px;
     background-repeat: no-repeat;
 }
@@ -1767,7 +1767,7 @@ p.subtitle {
 	height: 120px;
 	align-self: center;
 	margin: 0 0 20px 0;
-	background-image: url(../images/sprite_actions.png);
+	background-image: url(sprite_actions.png);
     background-size: 120px 480px;
     background-repeat: no-repeat;
 }
@@ -1906,7 +1906,7 @@ p.subtitle {
     height: 15px;
 	top: 3px;
     position: relative;
-    background-image: url(../images/sprite_symbols.svg);
+    background-image: url(sprite_symbols.svg);
     background-size: 15px 105px;
     background-repeat: no-repeat;
 	background-position: 0px -60px;
@@ -1915,7 +1915,7 @@ i.icon-mail,i.icon-globe {
 	display: inline-block;
     width: 25px;
     height: 25px;
-    background-image: url(../images/sprite_symbols.svg);
+    background-image: url(sprite_symbols.svg);
     background-size: 25px 175px;
     background-repeat: no-repeat;
 	margin-right: 5px;

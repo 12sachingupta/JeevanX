@@ -1308,11 +1308,11 @@ p.subtitle {
 		height: 486px;
 	}
 	.promo-pic img {
-		width: 430px;
+		width: 225px;
 		border-radius: 19.5px;
 	}
 	.promo-pic:last-of-type img {
-		width: 450px;
+		width: 240px;
 		border-radius: 22.5px;
 	}
 	.promo-pic img.small-pic {
@@ -1336,7 +1336,7 @@ p.subtitle {
 		box-shadow: 0px 4px 14px 0px #00000021;
 	}
 	.promo-pic:last-of-type img {
-		width: 435px;
+		width: 225px;
 		border-radius: 22.5px;
 	}
 	.promo-pic img.small-pic {

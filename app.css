@@ -1312,7 +1312,7 @@ p.subtitle {
 		border-radius: 19.5px;
 	}
 	.promo-pic:last-of-type img {
-		width: 240px;
+		width: 450px;
 		border-radius: 22.5px;
 	}
 	.promo-pic img.small-pic {
@@ -1336,7 +1336,7 @@ p.subtitle {
 		box-shadow: 0px 4px 14px 0px #00000021;
 	}
 	.promo-pic:last-of-type img {
-		width: 225px;
+		width: 435px;
 		border-radius: 22.5px;
 	}
 	.promo-pic img.small-pic {
